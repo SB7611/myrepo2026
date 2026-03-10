@@ -1,0 +1,22 @@
+/* Change background and font style */
+
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Heading style */
+h1 {
+    color: darkblue;
+    text-align: center;
+    font-size: 36px;
+}
+
+/* Paragraph style */
+p {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
