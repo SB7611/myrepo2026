@@ -1,0 +1,22 @@
+/* Change background and font style */
+
+body {
+    background-color: rgb(217, 39, 113);
+    font-family: Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Heading style */
+h1 {
+    color: rgb(148, 214, 107);
+    text-align: center;
+    font-size: 36px;
+}
+
+/* Paragraph style */
+p {
+    color: rgb(163, 199, 20);
+    font-size: 18px;
+    text-align: center;
+}
